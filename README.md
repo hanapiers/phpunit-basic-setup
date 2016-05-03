@@ -14,6 +14,11 @@ composer install
 Execute the command below to see PHPUnit in action.
 ```
 ./vendor/bin/phpunit
+
+# The command should result to:
+#
+# FAILURES!
+# Tests: 4, Assertions: 4, Failures: 2.
 ```
 
 ### Breakdown
